@@ -1,0 +1,151 @@
+/* SMAK admin theme (matches frontend palette) */
+:root {
+  --smaK-primary: #1F5E3B;
+  --smaK-accent: #2F7A4D;
+  --smaK-bg: #ffffff;
+  --smaK-text: #1f2937;
+  --smaK-ink: #0f172a;
+}
+
+body {
+  background: var(--smaK-bg);
+  color: var(--smaK-ink);
+}
+
+/* Top header */
+#header {
+  background: var(--smaK-primary);
+}
+
+#header a {
+  color: #ffffff;
+}
+
+#site-name a {
+  color: #ffffff !important;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+/* Branding + user tools */
+#user-tools a,
+#user-tools button,
+#user-tools input[type="submit"] {
+  color: #ffffff !important;
+}
+
+/* Breadcrumb + links */
+.breadcrumbs a,
+a {
+  color: var(--smaK-accent) !important;
+}
+
+.breadcrumbs a:hover,
+a:hover {
+  color: var(--smaK-primary) !important;
+}
+
+/* Primary buttons */
+input[type="submit"],
+input[type="button"],
+button,
+.button,
+.default,
+.submit-row input[type="submit"] {
+  background-color: var(--smaK-accent);
+  border-color: var(--smaK-accent);
+  color: #ffffff;
+}
+
+input[type="submit"]:hover,
+input[type="button"]:hover,
+button:hover,
+.button:hover,
+.default:hover {
+  filter: brightness(1.05);
+}
+
+/* Modules / cards */
+.module,
+.module h2,
+.inline-group {
+  border-color: rgba(47, 122, 77, 0.35);
+}
+
+.module h2 {
+  background: rgba(47, 122, 77, 0.12);
+  color: var(--smaK-primary) !important;
+  font-weight: 700;
+}
+
+/* Table header accents */
+table th,
+.results thead th {
+  background: rgba(47, 122, 77, 0.10);
+  color: var(--smaK-primary) !important;
+  border-color: rgba(47, 122, 77, 0.25) !important;
+}
+
+/* Form inputs / focus */
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+input[type="url"],
+textarea,
+select {
+  border-color: rgba(47, 122, 77, 0.35) !important;
+}
+
+/* Focus ring */
+:focus {
+  outline: 2px solid rgba(47, 122, 77, 0.35);
+  outline-offset: 2px;
+}
+
+/* Improve module link color */
+.module a {
+  color: var(--smaK-accent) !important;
+}
+
+/* Login page (green like the site) */
+body.login {
+  background: var(--smaK-bg);
+}
+
+body.login #login-form input[type='text'],
+body.login #login-form input[type='password'],
+body.login #login-form input[type='email'],
+body.login #login-form input[type='number'],
+body.login #login-form select,
+body.login #login-form textarea {
+  border-color: rgba(47, 122, 77, 0.55) !important;
+}
+
+body.login #login-form input[type='submit'] {
+  background-color: var(--smaK-accent) !important;
+  border-color: var(--smaK-accent) !important;
+  color: #ffffff !important;
+  border-radius: 6px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+body.login #login-form input[type='submit']:hover {
+  filter: brightness(1.05);
+}
+
+body.login .password-reset-link a {
+  color: var(--smaK-accent) !important;
+}
+
+body.login .password-reset-link a:hover {
+  color: var(--smaK-primary) !important;
+}
+
+body.login .errornote {
+  background: rgba(47, 122, 77, 0.08) !important;
+  border-left: 4px solid var(--smaK-accent) !important;
+  color: var(--smaK-primary) !important;
+}
+
