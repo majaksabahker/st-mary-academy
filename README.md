@@ -10,11 +10,29 @@ A full-stack secondary school website built with **React.js**, **Django**, and *
 
 ## 📸 Screenshots
 
-> Add screenshots here after taking them
+### 🏠 Home Page
+![Home Page](screenshots/Home.jpeg)
 
-## 🎥 Demo Video
+### 📖 About
+![About](screenshots/About.jpeg)
 
-> Add YouTube link here
+### 🎓 Academics
+![Academics](screenshots/Academics.jpeg)
+
+### 📋 Admission
+![Admission](screenshots/Admission.jpeg)
+
+### 📰 News & Events
+![News and Events](screenshots/News___Events.jpeg)
+
+### 🖼️ Gallery
+![Gallery](screenshots/Gallery.jpeg)
+
+### 📞 Contact
+![Contact](screenshots/Contact.jpeg)
+
+### Footer
+![Footer](screenshots/Footer.jpeg)
 
 ## ⚙️ Installation & Setup
 
