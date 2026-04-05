@@ -23,7 +23,7 @@ A full-stack secondary school website built with **React.js**, **Django**, and *
 ![Admission](screenshots/Admission.jpeg)
 
 ### 📰 News & Events
-![News and Events](screenshots/News___Events.jpeg)
+![News and Events](screenshots/News&Events.jpeg)
 
 ### 🖼️ Gallery
 ![Gallery](screenshots/Gallery.jpeg)
