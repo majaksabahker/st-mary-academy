@@ -1,4 +1,4 @@
-# 🏫 St Mary's Academy Secondary School – SMAK
+# 🏫 St Mary's Academy Secondary School SMAK
 
 > A full-stack school website built for a real institution in Juba, South Sudan.
 
@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Live Project
-> Currently running locally – deployment coming soon.
+> Currently running locally deployment coming soon.
 
 ---
 
@@ -26,11 +26,11 @@
 
 - 🏠 Home page with countdown to exams
 - 📖 About page with school values and mission
-- 🎓 Academics – curriculum and STEM programs
-- 📋 Admission – requirements and fee structure
-- 📰 News & Events – latest school updates
-- 🖼️ Gallery – photo and video gallery
-- 📞 Contact – Google Maps, WhatsApp & contact form
+- 🎓 Academics curriculum and STEM programs
+- 📋 Admission requirements and fee structure
+- 📰 News & Events latest school updates
+- 🖼️ Gallery photo and video gallery
+- 📞 Contact Google Maps, WhatsApp & contact form
 - 🔻 Fully responsive footer with quick links
 
 
