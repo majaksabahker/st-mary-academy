@@ -65,5 +65,5 @@ npm start
 
 ## 👨‍💻 Developer
 
-**Majak Sabahker**  
+**Majak Sabahker Chol**  
 📧 majaksabahker249@gmail.com
